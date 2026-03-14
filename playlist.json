@@ -33,43 +33,43 @@
   "bgm_presets": [
     { "name": "BGM1", "filename": "bgm1.mp3" },
     { "name": "BGM2", "filename": "bgm2.mp3" },
-    { "name": "BGM3", "filename": "bgm2.mp3" }
+    { "name": "BGM3", "filename": "bgm3.mp3" }
   ],
   "videos": [
     {
-      "id": "dQw4w9WgXcQ",
+      "id": "5gK3p5P4zRE",
       "title": "Test 1",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "url": "https://www.youtube.com/watch?v=5gK3p5P4zRE",
       "category": "demo1",
-      "default_speed": 0.5,
+      "default_speed": 1.0,
       "preferred_resolution": "1080p",
       "note": "驗證用A",
       "enabled": true
     },
     {
-      "id": "9bZkp7q19f0",
+      "id": "wqXdZElrZ5A",
       "title": "Test 2",
-      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "url": "https://www.youtube.com/watch?v=wqXdZElrZ5A",
       "category": "demo2",
-      "default_speed": 0.7,
+      "default_speed": 1.0,
       "preferred_resolution": "1080p",
       "note": "驗證用B",
       "enabled": true
     },
     {
-      "id": "kJQP7kiw5Fk",
+      "id": "sOpm6E1lnpc",
       "title": "Test 3",
-      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "url": "https://www.youtube.com/watch?v=sOpm6E1lnpc",
       "category": "demo3",
-      "default_speed": 0.8,
+      "default_speed": 1.0,
       "preferred_resolution": "1080p",
       "note": "驗證用C",
       "enabled": true
     },
     {
-      "id": "RgKAFK5djSk",
+      "id": "jbn3aO2uA_4",
       "title": "Test 4",
-      "url": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+      "url": "https://www.youtube.com/watch?v=jbn3aO2uA_4",
       "category": "demo4",
       "default_speed": 1.0,
       "preferred_resolution": "1080p",
@@ -77,9 +77,9 @@
       "enabled": true
     },
     {
-      "id": "OPf0YbXqDm0",
+      "id": "3FNWS-izj4k",
       "title": "Test 5",
-      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "url": "https://www.youtube.com/watch?v=3FNWS-izj4k",
       "category": "demo5",
       "default_speed": 1.0,
       "preferred_resolution": "1080p",
