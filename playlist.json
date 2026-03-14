@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "updated_at": "2026-03-13",
+  "playlist_name": "YT影片播放庫",
+  "settings": {
+    "github_raw_base": "https://raw.githubusercontent.com/samchen0809/androidytlist/main/",
+    "default_resolution": "1080p",
+    "cache_ttl_minutes": 30,
+    "display": {
+      "aspect_ratio": "16:9",
+      "output": "HDMI",
+      "target_device": "TV",
+      "orientation": "landscape"
+    },
+    "watermark": {
+      "enabled": true,
+      "text": "YouTube  FunFit",
+      "position": "bottom_right",
+      "font_size_sp": 16,
+      "text_color": "#CCFFFFFF",
+      "background_color": "#66000000",
+      "margin_dp": 16,
+      "padding_dp": 8
+    }
+  },
+  "categories": [
+    { "key": "demo1", "label": "Bike A", "color": "#4CAF50" },
+    { "key": "demo2", "label": "Bike B", "color": "#2196F3" },
+    { "key": "demo3", "label": "Bike C", "color": "#FF9800" },
+    { "key": "demo4", "label": "Bike D", "color": "#9C27B0" },
+    { "key": "demo5", "label": "Bike E", "color": "#607D8B" }
+  ],
+  "bgm_presets": [
+    { "name": "BGM1", "filename": "bgm1.mp3" },
+    { "name": "BGM2", "filename": "bgm2.mp3" },
+    { "name": "BGM3", "filename": "bgm2.mp3" }
+  ],
+  "videos": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Test 1",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "category": "demo1",
+      "default_speed": 0.5,
+      "preferred_resolution": "1080p",
+      "note": "驗證用A",
+      "enabled": true
+    },
+    {
+      "id": "9bZkp7q19f0",
+      "title": "Test 2",
+      "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "category": "demo2",
+      "default_speed": 0.7,
+      "preferred_resolution": "1080p",
+      "note": "驗證用B",
+      "enabled": true
+    },
+    {
+      "id": "kJQP7kiw5Fk",
+      "title": "Test 3",
+      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "category": "demo3",
+      "default_speed": 0.8,
+      "preferred_resolution": "1080p",
+      "note": "驗證用C",
+      "enabled": true
+    },
+    {
+      "id": "RgKAFK5djSk",
+      "title": "Test 4",
+      "url": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+      "category": "demo4",
+      "default_speed": 1.0,
+      "preferred_resolution": "1080p",
+      "note": "驗證用D",
+      "enabled": true
+    },
+    {
+      "id": "OPf0YbXqDm0",
+      "title": "Test 5",
+      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "category": "demo5",
+      "default_speed": 1.0,
+      "preferred_resolution": "1080p",
+      "note": "驗證用E",
+      "enabled": true
+    }
+  ]
+}
