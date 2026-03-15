@@ -85,6 +85,20 @@
       "preferred_resolution": "1080p",
       "note": "驗證用E",
       "enabled": true
+    },
+
+    {
+      "id": "ry4lWd7scuA",
+      "title": "Test 6",
+      "url": "https://www.youtube.com/watch?v=ry4lWd7scuA",
+      "category": "demo5",
+      "default_speed": 1.0,
+      "preferred_resolution": "1080p",
+      "note": "驗證用F",
+      "enabled": true
     }
+
+
+
   ]
 }
