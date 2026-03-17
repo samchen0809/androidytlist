@@ -62,7 +62,7 @@
       "url": "https://www.youtube.com/watch?v=sOpm6E1lnpc",
       "category": "demo3",
       "default_speed": 1.0,
-      "preferred_resolution": "1080p",
+      "preferred_resolution": "1440p",
       "note": "驗證用C",
       "enabled": true
     },
@@ -72,7 +72,7 @@
       "url": "https://www.youtube.com/watch?v=jbn3aO2uA_4",
       "category": "demo4",
       "default_speed": 1.0,
-      "preferred_resolution": "1080p",
+      "preferred_resolution": "1440p",
       "note": "驗證用D",
       "enabled": true
     },
